@@ -3,10 +3,6 @@
   "version": "1.0.0",
   "description": "Smooch Bot Example Apps",
   "author": "Andrew Lavers <alavers@system42.net> (http://smooch.io/)",
-  "engines": {
-    "node": "6.9.x"
-    "npm": "2.1.x"
-  }
   "scripts": {
     "start": "node heroku"
   },
